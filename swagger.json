@@ -9,9 +9,8 @@
 		"securitySchemes": {}
 	},
 	"info": {
-		"title": "voting-api",
+		"title": "expressjs-rest-boilerplate",
 		"version": "0.0.1",
-		"description": "Api for secure and easy voting.",
 		"license": {
 			"name": "MIT"
 		},
